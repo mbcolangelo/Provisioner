@@ -1,6 +1,8 @@
 # Quick Overview
 -More Information can be found at: http://www.provisioner.net
 
+## Fork fixes various compatibility issues - Mostly for Aastra model phones ##
+
 ## General Files
 autoload.php - Project Autoloader Class
 
@@ -28,3 +30,4 @@ report.sh - Generates all configs from all brands.
 json.php - Needed for php less than 5.3
 
 timezone.php - Needed for php less than 5.3
+
